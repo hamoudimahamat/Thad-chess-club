@@ -1,2 +1,2 @@
 # Thad-chess-club
-Site officiel du Club d’Échecs du Tchad
+Site officiel du Club d’Échecs au Tchad
